@@ -29,8 +29,8 @@ The model achieved strong baseline performance on the test set, with Logistic Re
 ```
 Employee-Salary-Prediction/
 │
-├── employee_salary_pred.ipynb   # Full notebook: cleaning, features, model, evaluation
-├── requirements.txt             # Python dependencies
+├── employee_salary_pred.ipynb   
+├── requirements.txt             
 └── README.md
 ```
 
